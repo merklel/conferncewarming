@@ -12,3 +12,4 @@ def latlon2km(lat1, lon1, lat2, lon2):
     return d
 
 print(latlon2km(20.79836, -156.331924, 40.287384, -84.161453))
+print(latlon2km(40.287384, -84.161453, 20.79836, -156.331924))

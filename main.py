@@ -8,25 +8,25 @@ import plot_conference
 flag_matching = False
 
 # ICPS 2018 St. Petersburg
-CONFERENCE = "icps18.csv"
-VENUE = {'name':'St. Petersburg', 'lat':59.93863 , 'lon':30.31413}
+# CONFERENCE = "icps18.csv"
+# VENUE = {'name':'St. Petersburg', 'lat':59.93863 , 'lon':30.31413}
 
 # ITSC 2018 Maui
 #CONFERENCE = "itsc18.csv"
 #VENUE = {'name':'Maui, Hawaii', 'lat':20.798363 , 'lon':-156.331924} #20.798363, -156.331924
 
 # ITSC17 Yokohama
-#CONFERENCE = "itsc17.csv"
-#VENUE = {'name':"Yokohama", 'lat':35.443707 , 'lon':139.638031} #35.443707, 139.638031.
+# CONFERENCE = "itsc17.csv"
+# VENUE = {'name':"Yokohama", 'lat':35.443707 , 'lon':139.638031} #35.443707, 139.638031.
 
 CONFERENCE="icis18.csv"
 VENUE={'name':'Singapore', 'lat':1.290270 , 'lon':103.851959} #1.290270	103.851959
 
-#CONFERENCE="iros18.csv"
-#VENUE={'name':'Madrid', 'lat':40.416775 , 'lon':-3.703790} #40.416775	-3.703790
+# CONFERENCE="iros18.csv"
+# VENUE={'name':'Madrid', 'lat':40.416775 , 'lon':-3.703790} #40.416775	-3.703790
 
-#CONFERENCE="EVER2018.csv"
-#VENUE = {"name": "Monte Carlo", 'lat':43.73976 , 'lon':7.42732} #43.73976, 7.42732
+# CONFERENCE="EVER2018.csv"
+# VENUE = {"name": "Monte Carlo", 'lat':43.73976 , 'lon':7.42732} #43.73976, 7.42732
 
 WORLDCITIES = "simplemaps_worldcities_basicv1.4/worldcities.csv"
 AFFILIATION_MATCH = CONFERENCE +'_matched.csv'
@@ -142,11 +142,13 @@ df_worldcities_biggest = df_worldcities[df_worldcities['population']>1000000]
 analysis_venue = co2_for_confernce_venue(df_match, VENUE)
 c=1
 n = len(df_worldcities_biggest)
+world_conf_venues = pd.DataFrame(columns=['lng', 'lat', 'co2'])
 for index, row in df_worldcities_biggest.iterrows():
     print('Analysing {} of {}.'.format(c, n))
     c=c+1
     venue={"name":row["city"], "lat":row["lat"],"lon":row["lng"]}
     conference = co2_for_confernce_venue(df_match, venue)
+    world_conf_venues = world_conf_venues.append({'lng': venue['lon'], 'lat': venue['lat'], 'co2': conference['total_co2']}, ignore_index=True)
 
     co2 = conference['total_co2']
     if co2 < min_co2:
@@ -154,8 +156,11 @@ for index, row in df_worldcities_biggest.iterrows():
         min_venue = venue
 
 
-print('CO2 minimal venue: {}. CO2: {}'.format(min_venue['name'], min_co2))
-plot_conference.plot_conference(conference['df_match'], VENUE,title='Original Location', CONFERENCE=CONFERENCE, total_co2 = analysis_venue['total_co2'])
-plot_conference.plot_conference(conference['df_match'], min_venue, title='CO2 Optimal Location', CONFERENCE=CONFERENCE, total_co2 = min_co2)
+    # if c>5:
+    #    break
 
+
+print('CO2 minimal venue: {}. CO2: {}'.format(min_venue['name'], min_co2))
+plot_conference.plot_conference(conference['df_match'], VENUE,title='Original Location', CONFERENCE=CONFERENCE, total_co2 = analysis_venue['total_co2'], world_conf_venues=world_conf_venues)
+plot_conference.plot_conference(conference['df_match'], min_venue, title='CO2 Optimal Location', CONFERENCE=CONFERENCE, total_co2 = min_co2, world_conf_venues=world_conf_venues)
 
