@@ -1,0 +1,594 @@
+,admin_name,capital,city,city_ascii,country,id,iso2,iso3,lat,lng,population
+5734,Shanghai,admin,Shanghai,Shanghai,China,1156073548.0,CN,CHN,31.2165,121.4365,14987000.0
+9955,Pennsylvania,,Pittsburgh,Pittsburgh,United States,1840001254.0,US,USA,40.4396,-79.9763,1722206.0
+5734,Shanghai,admin,Shanghai,Shanghai,China,1156073548.0,CN,CHN,31.2165,121.4365,14987000.0
+1405,Noord-Holland,primary,Amsterdam,Amsterdam,Netherlands,1528355309.0,NL,NLD,52.35,4.9166,1031000.0
+7810,Tōkyō,primary,Tokyo,Tokyo,Japan,1392685764.0,JP,JPN,35.685,139.7514,35676000.0
+7842,Aichi,admin,Nagoya,Nagoya,Japan,1392407472.0,JP,JPN,35.155,136.915,3230000.0
+786,Koulikoro,minor,Nara,Nara,Mali,1466925477.0,ML,MLI,15.18,-7.28,18459.0
+8206,Virginia,,Blacksburg,Blacksburg,United States,1840006446.0,US,USA,37.23,-80.4277,93560.0
+4390,Western Australia,,Northam,Northam,Australia,1036868267.0,AU,AUS,-31.6566,116.6534,5855.0
+7606,Tamil Nādu ,,Tiruchirappalli,Tiruchirappalli,India,1356884472.0,IN,IND,10.81,78.69,951000.0
+7862,Saitama,admin,Saitama,Saitama,Japan,1392017719.0,JP,JPN,35.9,139.65,
+10322,California,,Berkeley,Berkeley,United States,1840018914.0,US,USA,37.8723,-122.276,121240.0
+10322,California,,Berkeley,Berkeley,United States,1840018914.0,US,USA,37.8723,-122.276,121240.0
+4983,São Paulo,,Campinas,Campinas,Brazil,1076145766.0,BR,BRA,-22.9,-47.1,2791000.0
+2789,Stockholm,primary,Stockholm,Stockholm,Sweden,1752425602.0,SE,SWE,59.3508,18.0973,1264000.0
+1744,Biliran,admin,Naval,Naval,Philippines,1608929611.0,PH,PHL,11.5612,124.3952,
+9166,Texas,,Universal City,Universal City,United States,1840022225.0,US,USA,29.5521,-98.3074,20359.0
+8010,Seoul,primary,Seoul,Seoul,"Korea, South",1410836482.0,KR,KOR,37.5663,126.9997,9796000.0
+9166,Texas,,Universal City,Universal City,United States,1840022225.0,US,USA,29.5521,-98.3074,20359.0
+6311,Lower Saxony,minor,Braunschweig,Braunschweig,Germany,1276941443.0,DE,DEU,52.25,10.5,244715.0
+9166,Texas,,Universal City,Universal City,United States,1840022225.0,US,USA,29.5521,-98.3074,20359.0
+8249,District of Columbia,primary,Washington,Washington,United States,1840006060.0,US,USA,38.9047,-77.0163,5191844.0
+9166,Texas,,Universal City,Universal City,United States,1840022225.0,US,USA,29.5521,-98.3074,20359.0
+6314,Baden-Württemberg,minor,Karlsruhe,Karlsruhe,Germany,1276923210.0,DE,DEU,49.0,8.4,377487.0
+1480,Canterbury,,Christchurch,Christchurch,New Zealand,1554377228.0,NZ,NZL,-43.535,172.63,363200.0
+7842,Aichi,admin,Nagoya,Nagoya,Japan,1392407472.0,JP,JPN,35.155,136.915,3230000.0
+6536,Al Qāhirah,primary,Cairo,Cairo,Egypt,1818253931.0,EG,EGY,30.05,31.25,11893000.0
+6324,Baden-Württemberg,minor,Ulm,Ulm,Germany,1276002212.0,DE,DEU,48.4004,10.0,172955.0
+1955,Cluj,admin,Cluj-Napoca,Cluj-Napoca,Romania,1642503974.0,RO,ROU,46.7884,23.5984,316748.0
+6280,Bavaria,admin,Munich,Munich,Germany,1276692352.0,DE,DEU,48.1299,11.575,1275000.0
+8067,Washington,,Pacific,Pacific,United States,1840019834.0,US,USA,47.261,-122.2507,7122.0
+4545,Brussels-Capital Region,primary,Brussels,Brussels,Belgium,1056469830.0,BE,BEL,50.8333,4.3333,1743000.0
+7055,Labé,admin,Labé,Labe,Guinea,1324900784.0,GN,GIN,11.32,-12.3,140575.0
+3724,Florida,admin,Florida,Florida,Uruguay,1858077099.0,UY,URY,-34.099,-56.215,32234.0
+789,Ségou,minor,San,San,Mali,1466198810.0,ML,MLI,13.3004,-4.9,41386.0
+1391,Granada,admin,Granada‎,Granada,Nicaragua,1558101678.0,NI,NIC,11.9337,-85.95,105219.0
+7510,Delhi,admin,Delhi,Delhi,India,1356872604.0,IN,IND,28.67,77.23,15926000.0
+7377,Dublin,primary,Dublin,Dublin,Ireland,1372595407.0,IE,IRL,53.3331,-6.2489,1059000.0
+6685,Île-de-France,primary,Paris,Paris,France,1250015082.0,FR,FRA,48.8667,2.3333,9904000.0
+5743,Jiangxi,admin,Nanchang,Nanchang,China,1156198892.0,CN,CHN,28.68,115.88,2350000.0
+7842,Aichi,admin,Nagoya,Nagoya,Japan,1392407472.0,JP,JPN,35.155,136.915,3230000.0
+6570,Galicia,,Vigo,Vigo,Spain,1724045676.0,ES,ESP,42.22,-8.73,378952.0
+6600,Madrid,primary,Madrid,Madrid,Spain,1724616994.0,ES,ESP,40.4,-3.6834,5567000.0
+131,Western Cape,,George,George,South Africa,1710164136.0,ZA,ZAF,-33.95,22.45,174582.0
+6602,Valencia,minor,Alicante,Alicante,Spain,1724923163.0,ES,ESP,38.3512,-0.4836,315863.0
+6536,Al Qāhirah,primary,Cairo,Cairo,Egypt,1818253931.0,EG,EGY,30.05,31.25,11893000.0
+7842,Aichi,admin,Nagoya,Nagoya,Japan,1392407472.0,JP,JPN,35.155,136.915,3230000.0
+6685,Île-de-France,primary,Paris,Paris,France,1250015082.0,FR,FRA,48.8667,2.3333,9904000.0
+11507,Arizona,,Tucson,Tucson,United States,1840022101.0,US,USA,32.1558,-110.8777,860333.0
+9578,Tennessee,,Knoxville,Knoxville,United States,1840014486.0,US,USA,35.969,-83.9498,581787.0
+9787,New York,,Lawrence,Lawrence,United States,1840005303.0,US,USA,40.6042,-73.7149,6558.0
+6324,Baden-Württemberg,minor,Ulm,Ulm,Germany,1276002212.0,DE,DEU,48.4004,10.0,172955.0
+5405,Nova Scotia,,Liverpool,Liverpool,Canada,1124159558.0,CA,CAN,44.04,-64.72,4331.0
+5958,Beijing,primary,Beijing,Beijing,China,1156228865.0,CN,CHN,39.9289,116.3883,11106000.0
+1873,Coimbra,admin,Coimbra,Coimbra,Portugal,1620166724.0,PT,PRT,40.2004,-8.4167,106582.0
+5958,Beijing,primary,Beijing,Beijing,China,1156228865.0,CN,CHN,39.9289,116.3883,11106000.0
+9166,Texas,,Universal City,Universal City,United States,1840022225.0,US,USA,29.5521,-98.3074,20359.0
+6280,Bavaria,admin,Munich,Munich,Germany,1276692352.0,DE,DEU,48.1299,11.575,1275000.0
+5958,Beijing,primary,Beijing,Beijing,China,1156228865.0,CN,CHN,39.9289,116.3883,11106000.0
+8412,West Virginia,,Morgantown,Morgantown,United States,1840005647.0,US,USA,39.6379,-79.9468,73183.0
+10141,California,,Lomita,Lomita,United States,1840020489.0,US,USA,33.7934,-118.3175,20693.0
+6145,Tolima,,Honda,Honda,Colombia,1170848069.0,CO,COL,5.1903,-74.75,35469.0
+6159,Antioquia,admin,Medellín,Medellin,Colombia,1170680389.0,CO,COL,6.275,-75.575,3297000.0
+5734,Shanghai,admin,Shanghai,Shanghai,China,1156073548.0,CN,CHN,31.2165,121.4365,14987000.0
+10322,California,,Berkeley,Berkeley,United States,1840018914.0,US,USA,37.8723,-122.276,121240.0
+3800,Anzoátegui,admin,Barcelona,Barcelona,Venezuela,1862418619.0,VE,VEN,10.1304,-64.72,600954.0
+6145,Tolima,,Honda,Honda,Colombia,1170848069.0,CO,COL,5.1903,-74.75,35469.0
+10322,California,,Berkeley,Berkeley,United States,1840018914.0,US,USA,37.8723,-122.276,121240.0
+4245,New South Wales,admin,Sydney,Sydney,Australia,1036074917.0,AU,AUS,-33.92,151.1852,4630000.0
+9136,Texas,,Dallas,Dallas,United States,1840019440.0,US,USA,32.7938,-96.7659,5634307.0
+7842,Aichi,admin,Nagoya,Nagoya,Japan,1392407472.0,JP,JPN,35.155,136.915,3230000.0
+5571,Vaud,admin,Lausanne,Lausanne,Switzerland,1756055099.0,CH,CHE,46.5304,6.65,265702.0
+5934,Guangdong,admin,Guangzhou,Guangzhou,China,1156237133.0,CN,CHN,23.145,113.325,8829000.0
+5642,Maule,,Constitución,Constitucion,Chile,1152065066.0,CL,CHL,-35.3296,-72.42,37917.0
+6685,Île-de-France,primary,Paris,Paris,France,1250015082.0,FR,FRA,48.8667,2.3333,9904000.0
+1695,Angeles,admin,Angeles,Angeles,Philippines,1608036027.0,PH,PHL,15.1451,120.5451,314493.0
+6280,Bavaria,admin,Munich,Munich,Germany,1276692352.0,DE,DEU,48.1299,11.575,1275000.0
+1509,Waikato,,Cambridge,Cambridge,New Zealand,1554000000.0,NZ,NZL,-37.8894,175.4703,15192.0
+9166,Texas,,Universal City,Universal City,United States,1840022225.0,US,USA,29.5521,-98.3074,20359.0
+8654,Wyoming,,Laramie,Laramie,United States,1840020096.0,US,USA,41.3095,-105.6097,33587.0
+7821,Chiba,admin,Chiba,Chiba,Japan,1392107144.0,JP,JPN,35.6,140.1167,
+7842,Aichi,admin,Nagoya,Nagoya,Japan,1392407472.0,JP,JPN,35.155,136.915,3230000.0
+2036,Inđija,admin,Inđija,Indija,Serbia,1688349740.0,RS,SRB,45.0482,20.0816,
+1509,Waikato,,Cambridge,Cambridge,New Zealand,1554000000.0,NZ,NZL,-37.8894,175.4703,15192.0
+7377,Dublin,primary,Dublin,Dublin,Ireland,1372595407.0,IE,IRL,53.3331,-6.2489,1059000.0
+5755,Hunan,admin,Changsha,Changsha,China,1156961497.0,CN,CHN,28.2,112.97,2604000.0
+6280,Bavaria,admin,Munich,Munich,Germany,1276692352.0,DE,DEU,48.1299,11.575,1275000.0
+6315,Baden-Württemberg,minor,Heidelberg,Heidelberg,Germany,1276519742.0,DE,DEU,49.42,8.7,426590.0
+11261,Indiana,,Brazil,Brazil,United States,1840005744.0,US,USA,39.5232,-87.1244,8110.0
+8206,Virginia,,Blacksburg,Blacksburg,United States,1840006446.0,US,USA,37.23,-80.4277,93560.0
+5556,Zürich,admin,Zürich,Zurich,Switzerland,1756539143.0,CH,CHE,47.38,8.55,1108000.0
+7822,Fukui,admin,Fukui,Fukui,Japan,1392897510.0,JP,JPN,36.0704,136.22,248707.0
+6311,Lower Saxony,minor,Braunschweig,Braunschweig,Germany,1276941443.0,DE,DEU,52.25,10.5,244715.0
+9166,Texas,,Universal City,Universal City,United States,1840022225.0,US,USA,29.5521,-98.3074,20359.0
+7445,Karnātaka,admin,Bangalore,Bangalore,India,1356410365.0,IN,IND,12.97,77.56,6787000.0
+10116,California,,Fresno,Fresno,United States,1840020319.0,US,USA,36.7834,-119.7933,690895.0
+9166,Texas,,Universal City,Universal City,United States,1840022225.0,US,USA,29.5521,-98.3074,20359.0
+6324,Baden-Württemberg,minor,Ulm,Ulm,Germany,1276002212.0,DE,DEU,48.4004,10.0,172955.0
+6314,Baden-Württemberg,minor,Karlsruhe,Karlsruhe,Germany,1276923210.0,DE,DEU,49.0,8.4,377487.0
+9166,Texas,,Universal City,Universal City,United States,1840022225.0,US,USA,29.5521,-98.3074,20359.0
+8944,Texas,,Anna,Anna,United States,1840019397.0,US,USA,33.3475,-96.5512,15554.0
+8236,Delaware,,Newark,Newark,United States,1840005578.0,US,USA,39.6777,-75.7573,33398.0
+6314,Baden-Württemberg,minor,Karlsruhe,Karlsruhe,Germany,1276923210.0,DE,DEU,49.0,8.4,377487.0
+6314,Baden-Württemberg,minor,Karlsruhe,Karlsruhe,Germany,1276923210.0,DE,DEU,49.0,8.4,377487.0
+6311,Lower Saxony,minor,Braunschweig,Braunschweig,Germany,1276941443.0,DE,DEU,52.25,10.5,244715.0
+10189,California,,Burlingame,Burlingame,United States,1840018925.0,US,USA,37.586,-122.367,30301.0
+3800,Anzoátegui,admin,Barcelona,Barcelona,Venezuela,1862418619.0,VE,VEN,10.1304,-64.72,600954.0
+9292,Louisiana,,Lafayette,Lafayette,United States,1840015044.0,US,USA,30.2097,-92.0314,267376.0
+6316,Bavaria,minor,Ingolstadt,Ingolstadt,Germany,1276803150.0,DE,DEU,48.7704,11.45,163325.0
+5290,Ontario,admin,Toronto,Toronto,Canada,1124279679.0,CA,CAN,43.7,-79.42,5213000.0
+6685,Île-de-France,primary,Paris,Paris,France,1250015082.0,FR,FRA,48.8667,2.3333,9904000.0
+6314,Baden-Württemberg,minor,Karlsruhe,Karlsruhe,Germany,1276923210.0,DE,DEU,49.0,8.4,377487.0
+5958,Beijing,primary,Beijing,Beijing,China,1156228865.0,CN,CHN,39.9289,116.3883,11106000.0
+6305,North Rhine-Westphalia,minor,Wuppertal,Wuppertal,Germany,1276004611.0,DE,DEU,51.25,7.17,776525.0
+8491,Florida,,Sanford,Sanford,United States,1840015958.0,US,USA,28.7892,-81.276,58605.0
+6280,Bavaria,admin,Munich,Munich,Germany,1276692352.0,DE,DEU,48.1299,11.575,1275000.0
+6278,Berlin,primary,Berlin,Berlin,Germany,1276451290.0,DE,DEU,52.5218,13.4015,3406000.0
+4552,Flanders,minor,Gent,Gent,Belgium,1056062897.0,BE,BEL,51.03,3.7,444336.0
+9659,New York,,Waterloo,Waterloo,United States,1840004421.0,US,USA,42.9048,-76.8592,5019.0
+9787,New York,,Lawrence,Lawrence,United States,1840005303.0,US,USA,40.6042,-73.7149,6558.0
+7810,Tōkyō,primary,Tokyo,Tokyo,Japan,1392685764.0,JP,JPN,35.685,139.7514,35676000.0
+8017,Daegu,admin,Daegu,Daegu,"Korea, South",1410095252.0,KR,KOR,35.8668,128.607,2460000.0
+9659,New York,,Waterloo,Waterloo,United States,1840004421.0,US,USA,42.9048,-76.8592,5019.0
+9927,Pennsylvania,,Carnegie,Carnegie,United States,1840001214.0,US,USA,40.408,-80.0861,7913.0
+6280,Bavaria,admin,Munich,Munich,Germany,1276692352.0,DE,DEU,48.1299,11.575,1275000.0
+6311,Lower Saxony,minor,Braunschweig,Braunschweig,Germany,1276941443.0,DE,DEU,52.25,10.5,244715.0
+5734,Shanghai,admin,Shanghai,Shanghai,China,1156073548.0,CN,CHN,31.2165,121.4365,14987000.0
+5290,Ontario,admin,Toronto,Toronto,Canada,1124279679.0,CA,CAN,43.7,-79.42,5213000.0
+8206,Virginia,,Blacksburg,Blacksburg,United States,1840006446.0,US,USA,37.23,-80.4277,93560.0
+4827,Paraná,,Palmas,Palmas,Brazil,1076528204.0,BR,BRA,-26.48,-52.0,39150.0
+6323,Bavaria,minor,Hof,Hof,Germany,1276561363.0,DE,DEU,50.317,11.9167,56153.0
+6324,Baden-Württemberg,minor,Ulm,Ulm,Germany,1276002212.0,DE,DEU,48.4004,10.0,172955.0
+6280,Bavaria,admin,Munich,Munich,Germany,1276692352.0,DE,DEU,48.1299,11.575,1275000.0
+6082,Anhui,admin,Hefei,Hefei,China,1156332710.0,CN,CHN,31.85,117.28,2035000.0
+6311,Lower Saxony,minor,Braunschweig,Braunschweig,Germany,1276941443.0,DE,DEU,52.25,10.5,244715.0
+2789,Stockholm,primary,Stockholm,Stockholm,Sweden,1752425602.0,SE,SWE,59.3508,18.0973,1264000.0
+7822,Fukui,admin,Fukui,Fukui,Japan,1392897510.0,JP,JPN,36.0704,136.22,248707.0
+6315,Baden-Württemberg,minor,Heidelberg,Heidelberg,Germany,1276519742.0,DE,DEU,49.42,8.7,426590.0
+5958,Beijing,primary,Beijing,Beijing,China,1156228865.0,CN,CHN,39.9289,116.3883,11106000.0
+8206,Virginia,,Blacksburg,Blacksburg,United States,1840006446.0,US,USA,37.23,-80.4277,93560.0
+6758,Oxfordshire,admin,Oxford,Oxford,United Kingdom,1826689568.0,GB,GBR,51.7704,-1.25,192796.0
+6686,Auvergne-Rhône-Alpes,minor,Clermont-Ferrand,Clermont-Ferrand,France,1250135509.0,FR,FRA,45.78,3.08,233050.0
+9418,North Carolina,,Cary,Cary,United States,1840016196.0,US,USA,35.7815,-78.8162,162320.0
+5958,Beijing,primary,Beijing,Beijing,China,1156228865.0,CN,CHN,39.9289,116.3883,11106000.0
+6280,Bavaria,admin,Munich,Munich,Germany,1276692352.0,DE,DEU,48.1299,11.575,1275000.0
+9166,Texas,,Universal City,Universal City,United States,1840022225.0,US,USA,29.5521,-98.3074,20359.0
+6323,Bavaria,minor,Hof,Hof,Germany,1276561363.0,DE,DEU,50.317,11.9167,56153.0
+6145,Tolima,,Honda,Honda,Colombia,1170848069.0,CO,COL,5.1903,-74.75,35469.0
+6280,Bavaria,admin,Munich,Munich,Germany,1276692352.0,DE,DEU,48.1299,11.575,1275000.0
+5958,Beijing,primary,Beijing,Beijing,China,1156228865.0,CN,CHN,39.9289,116.3883,11106000.0
+10322,California,,Berkeley,Berkeley,United States,1840018914.0,US,USA,37.8723,-122.276,121240.0
+5571,Vaud,admin,Lausanne,Lausanne,Switzerland,1756055099.0,CH,CHE,46.5304,6.65,265702.0
+7723,Emilia-Romagna,admin,Bologna,Bologna,Italy,1380202039.0,IT,ITA,44.5004,11.34,488172.0
+6590,Catalonia,minor,Tarragona,Tarragona,Spain,1724296961.0,ES,ESP,41.1204,1.25,126291.0
+6685,Île-de-France,primary,Paris,Paris,France,1250015082.0,FR,FRA,48.8667,2.3333,9904000.0
+6314,Baden-Württemberg,minor,Karlsruhe,Karlsruhe,Germany,1276923210.0,DE,DEU,49.0,8.4,377487.0
+6280,Bavaria,admin,Munich,Munich,Germany,1276692352.0,DE,DEU,48.1299,11.575,1275000.0
+5958,Beijing,primary,Beijing,Beijing,China,1156228865.0,CN,CHN,39.9289,116.3883,11106000.0
+6297,North Rhine-Westphalia,minor,Dortmund,Dortmund,Germany,1276562886.0,DE,DEU,51.53,7.45,588462.0
+5958,Beijing,primary,Beijing,Beijing,China,1156228865.0,CN,CHN,39.9289,116.3883,11106000.0
+4245,New South Wales,admin,Sydney,Sydney,Australia,1036074917.0,AU,AUS,-33.92,151.1852,4630000.0
+7606,Tamil Nādu ,,Tiruchirappalli,Tiruchirappalli,India,1356884472.0,IN,IND,10.81,78.69,951000.0
+5060,São Paulo,,Franca,Franca,Brazil,1076740256.0,BR,BRA,-20.53,-47.39,305041.0
+4983,São Paulo,,Campinas,Campinas,Brazil,1076145766.0,BR,BRA,-22.9,-47.1,2791000.0
+5958,Beijing,primary,Beijing,Beijing,China,1156228865.0,CN,CHN,39.9289,116.3883,11106000.0
+9927,Pennsylvania,,Carnegie,Carnegie,United States,1840001214.0,US,USA,40.408,-80.0861,7913.0
+8491,Florida,,Sanford,Sanford,United States,1840015958.0,US,USA,28.7892,-81.276,58605.0
+6270,Jihomoravský Kraj,admin,Brno,Brno,Czechia,1203676514.0,CZ,CZE,49.2004,16.61,388277.0
+6145,Tolima,,Honda,Honda,Colombia,1170848069.0,CO,COL,5.1903,-74.75,35469.0
+6280,Bavaria,admin,Munich,Munich,Germany,1276692352.0,DE,DEU,48.1299,11.575,1275000.0
+6311,Lower Saxony,minor,Braunschweig,Braunschweig,Germany,1276941443.0,DE,DEU,52.25,10.5,244715.0
+5889,Guangdong,minor,Shenzhen,Shenzhen,China,1156158707.0,CN,CHN,22.5524,114.1221,7581000.0
+12454,Michigan,,Dearborn,Dearborn,United States,1840003969.0,US,USA,42.3127,-83.213,94444.0
+3724,Florida,admin,Florida,Florida,Uruguay,1858077099.0,UY,URY,-34.099,-56.215,32234.0
+10322,California,,Berkeley,Berkeley,United States,1840018914.0,US,USA,37.8723,-122.276,121240.0
+7842,Aichi,admin,Nagoya,Nagoya,Japan,1392407472.0,JP,JPN,35.155,136.915,3230000.0
+10322,California,,Berkeley,Berkeley,United States,1840018914.0,US,USA,37.8723,-122.276,121240.0
+11410,Iowa,,Ames,Ames,United States,1840007019.0,US,USA,42.0262,-93.6275,67841.0
+5958,Beijing,primary,Beijing,Beijing,China,1156228865.0,CN,CHN,39.9289,116.3883,11106000.0
+5624,Biobío,,Coronel,Coronel,Chile,1152234834.0,CL,CHL,-37.03,-73.16,92940.0
+5060,São Paulo,,Franca,Franca,Brazil,1076740256.0,BR,BRA,-20.53,-47.39,305041.0
+3442,Taipei,primary,Taipei,Taipei,Taiwan,1158881289.0,TW,TWN,25.0358,121.5683,6900273.0
+6314,Baden-Württemberg,minor,Karlsruhe,Karlsruhe,Germany,1276923210.0,DE,DEU,49.0,8.4,377487.0
+5914,Hubei,admin,Wuhan,Wuhan,China,1156117184.0,CN,CHN,30.58,114.27,7243000.0
+6278,Berlin,primary,Berlin,Berlin,Germany,1276451290.0,DE,DEU,52.5218,13.4015,3406000.0
+5958,Beijing,primary,Beijing,Beijing,China,1156228865.0,CN,CHN,39.9289,116.3883,11106000.0
+11676,Massachusetts,admin,Boston,Boston,United States,1840000455.0,US,USA,42.3189,-71.0838,4556916.0
+6280,Bavaria,admin,Munich,Munich,Germany,1276692352.0,DE,DEU,48.1299,11.575,1275000.0
+7823,Fukuoka,admin,Fukuoka,Fukuoka,Japan,1392576294.0,JP,JPN,33.595,130.41,2792000.0
+6134,Valle del Cauca,admin,Cali,Cali,Colombia,1170417589.0,CO,COL,3.4,-76.5,2254000.0
+6314,Baden-Württemberg,minor,Karlsruhe,Karlsruhe,Germany,1276923210.0,DE,DEU,49.0,8.4,377487.0
+9166,Texas,,Universal City,Universal City,United States,1840022225.0,US,USA,29.5521,-98.3074,20359.0
+9366,North Carolina,,Charlotte,Charlotte,United States,1840014557.0,US,USA,35.208,-80.8308,1438351.0
+6145,Tolima,,Honda,Honda,Colombia,1170848069.0,CO,COL,5.1903,-74.75,35469.0
+9302,Louisiana,,Central,Central,United States,1840023139.0,US,USA,30.5593,-91.0369,28529.0
+7751,Emilia-Romagna,minor,Parma,Parma,Italy,1380655938.0,IT,ITA,44.8104,10.32,166011.0
+6280,Bavaria,admin,Munich,Munich,Germany,1276692352.0,DE,DEU,48.1299,11.575,1275000.0
+808,Mon State,,Ye,Ye,Burma,1104513802.0,MM,MMR,15.2533,97.8679,50798.0
+5958,Beijing,primary,Beijing,Beijing,China,1156228865.0,CN,CHN,39.9289,116.3883,11106000.0
+12106,Missouri,,Mexico,Mexico,United States,1840008515.0,US,USA,39.1626,-91.8711,11491.0
+7809,Nagano,,Matsumoto,Matsumoto,Japan,1392373962.0,JP,JPN,36.2404,137.97,224926.0
+5734,Shanghai,admin,Shanghai,Shanghai,China,1156073548.0,CN,CHN,31.2165,121.4365,14987000.0
+2789,Stockholm,primary,Stockholm,Stockholm,Sweden,1752425602.0,SE,SWE,59.3508,18.0973,1264000.0
+9166,Texas,,Universal City,Universal City,United States,1840022225.0,US,USA,29.5521,-98.3074,20359.0
+5958,Beijing,primary,Beijing,Beijing,China,1156228865.0,CN,CHN,39.9289,116.3883,11106000.0
+6145,Tolima,,Honda,Honda,Colombia,1170848069.0,CO,COL,5.1903,-74.75,35469.0
+5290,Ontario,admin,Toronto,Toronto,Canada,1124279679.0,CA,CAN,43.7,-79.42,5213000.0
+6314,Baden-Württemberg,minor,Karlsruhe,Karlsruhe,Germany,1276923210.0,DE,DEU,49.0,8.4,377487.0
+6286,Lower Saxony,admin,Hannover,Hannover,Germany,1276457707.0,DE,DEU,52.367,9.7167,722490.0
+2809,,primary,Singapore,Singapore,Singapore,1702341327.0,SG,SGP,1.293,103.8558,5183700.0
+12672,South Carolina,,Clemson,Clemson,United States,1840014626.0,US,USA,34.6841,-82.8124,16058.0
+8079,Washington,,Omak,Omak,United States,1840019761.0,US,USA,48.4214,-119.5178,8208.0
+7810,Tōkyō,primary,Tokyo,Tokyo,Japan,1392685764.0,JP,JPN,35.685,139.7514,35676000.0
+7842,Aichi,admin,Nagoya,Nagoya,Japan,1392407472.0,JP,JPN,35.155,136.915,3230000.0
+6314,Baden-Württemberg,minor,Karlsruhe,Karlsruhe,Germany,1276923210.0,DE,DEU,49.0,8.4,377487.0
+6280,Bavaria,admin,Munich,Munich,Germany,1276692352.0,DE,DEU,48.1299,11.575,1275000.0
+9166,Texas,,Universal City,Universal City,United States,1840022225.0,US,USA,29.5521,-98.3074,20359.0
+5060,São Paulo,,Franca,Franca,Brazil,1076740256.0,BR,BRA,-20.53,-47.39,305041.0
+2809,,primary,Singapore,Singapore,Singapore,1702341327.0,SG,SGP,1.293,103.8558,5183700.0
+7093,Attikí,primary,Athens,Athens,Greece,1300715560.0,GR,GRC,37.9833,23.7333,3242000.0
+6297,North Rhine-Westphalia,minor,Dortmund,Dortmund,Germany,1276562886.0,DE,DEU,51.53,7.45,588462.0
+1509,Waikato,,Cambridge,Cambridge,New Zealand,1554000000.0,NZ,NZL,-37.8894,175.4703,15192.0
+6296,Hesse,minor,Kassel,Kassel,Germany,1276791686.0,DE,DEU,51.3,9.5,289924.0
+7810,Tōkyō,primary,Tokyo,Tokyo,Japan,1392685764.0,JP,JPN,35.685,139.7514,35676000.0
+5958,Beijing,primary,Beijing,Beijing,China,1156228865.0,CN,CHN,39.9289,116.3883,11106000.0
+5958,Beijing,primary,Beijing,Beijing,China,1156228865.0,CN,CHN,39.9289,116.3883,11106000.0
+7727,Piedmont,admin,Turin,Turin,Italy,1380244627.0,IT,ITA,45.0704,7.67,1652000.0
+6319,Bavaria,minor,Augsburg,Augsburg,Germany,1276314100.0,DE,DEU,48.35,10.9,358989.0
+9166,Texas,,Universal City,Universal City,United States,1840022225.0,US,USA,29.5521,-98.3074,20359.0
+5958,Beijing,primary,Beijing,Beijing,China,1156228865.0,CN,CHN,39.9289,116.3883,11106000.0
+10214,California,,Riverside,Riverside,United States,1840020551.0,US,USA,33.9382,-117.3949,2065627.0
+9927,Pennsylvania,,Carnegie,Carnegie,United States,1840001214.0,US,USA,40.408,-80.0861,7913.0
+6685,Île-de-France,primary,Paris,Paris,France,1250015082.0,FR,FRA,48.8667,2.3333,9904000.0
+6280,Bavaria,admin,Munich,Munich,Germany,1276692352.0,DE,DEU,48.1299,11.575,1275000.0
+6078,Chongqing,admin,Chongqing,Chongqing,China,1156936556.0,CN,CHN,29.565,106.595,6461000.0
+6324,Baden-Württemberg,minor,Ulm,Ulm,Germany,1276002212.0,DE,DEU,48.4004,10.0,172955.0
+9927,Pennsylvania,,Carnegie,Carnegie,United States,1840001214.0,US,USA,40.408,-80.0861,7913.0
+4545,Brussels-Capital Region,primary,Brussels,Brussels,Belgium,1056469830.0,BE,BEL,50.8333,4.3333,1743000.0
+4348,New South Wales,,Orange,Orange,Australia,1036760396.0,AU,AUS,-33.28,149.1,39329.0
+7652,Kermān,admin,Kerman,Kerman,Iran,1364554896.0,IR,IRN,30.3,57.08,577514.0
+7510,Delhi,admin,Delhi,Delhi,India,1356872604.0,IN,IND,28.67,77.23,15926000.0
+8206,Virginia,,Blacksburg,Blacksburg,United States,1840006446.0,US,USA,37.23,-80.4277,93560.0
+6314,Baden-Württemberg,minor,Karlsruhe,Karlsruhe,Germany,1276923210.0,DE,DEU,49.0,8.4,377487.0
+5556,Zürich,admin,Zürich,Zurich,Switzerland,1756539143.0,CH,CHE,47.38,8.55,1108000.0
+6280,Bavaria,admin,Munich,Munich,Germany,1276692352.0,DE,DEU,48.1299,11.575,1275000.0
+4226,Kärnten,admin,Klagenfurt,Klagenfurt,Austria,1040149651.0,AT,AUT,46.6203,14.31,90610.0
+789,Ségou,minor,San,San,Mali,1466198810.0,ML,MLI,13.3004,-4.9,41386.0
+4368,Queensland,,Warwick,Warwick,Australia,1036412726.0,AU,AUS,-28.2292,152.0203,12347.0
+8821,New Jersey,,Carlstadt,Carlstadt,United States,1840000895.0,US,USA,40.825,-74.0614,6249.0
+6280,Bavaria,admin,Munich,Munich,Germany,1276692352.0,DE,DEU,48.1299,11.575,1275000.0
+1792,Sindh,,Hyderabad,Hyderabad,Pakistan,1586427790.0,PK,PAK,25.38,68.375,1459000.0
+9927,Pennsylvania,,Carnegie,Carnegie,United States,1840001214.0,US,USA,40.408,-80.0861,7913.0
+4827,Paraná,,Palmas,Palmas,Brazil,1076528204.0,BR,BRA,-26.48,-52.0,39150.0
+8010,Seoul,primary,Seoul,Seoul,"Korea, South",1410836482.0,KR,KOR,37.5663,126.9997,9796000.0
+4227,Wien,primary,Vienna,Vienna,Austria,1040261752.0,AT,AUT,48.2,16.3666,2400000.0
+6297,North Rhine-Westphalia,minor,Dortmund,Dortmund,Germany,1276562886.0,DE,DEU,51.53,7.45,588462.0
+5958,Beijing,primary,Beijing,Beijing,China,1156228865.0,CN,CHN,39.9289,116.3883,11106000.0
+6269,"Praha, Hlavní Město",primary,Prague,Prague,Czechia,1203744823.0,CZ,CZE,50.0833,14.466,1162000.0
+9659,New York,,Waterloo,Waterloo,United States,1840004421.0,US,USA,42.9048,-76.8592,5019.0
+9166,Texas,,Universal City,Universal City,United States,1840022225.0,US,USA,29.5521,-98.3074,20359.0
+1873,Coimbra,admin,Coimbra,Coimbra,Portugal,1620166724.0,PT,PRT,40.2004,-8.4167,106582.0
+4225,Steiermark,admin,Graz,Graz,Austria,1040184559.0,AT,AUT,47.0778,15.41,263234.0
+7810,Tōkyō,primary,Tokyo,Tokyo,Japan,1392685764.0,JP,JPN,35.685,139.7514,35676000.0
+6314,Baden-Württemberg,minor,Karlsruhe,Karlsruhe,Germany,1276923210.0,DE,DEU,49.0,8.4,377487.0
+6685,Île-de-France,primary,Paris,Paris,France,1250015082.0,FR,FRA,48.8667,2.3333,9904000.0
+6314,Baden-Württemberg,minor,Karlsruhe,Karlsruhe,Germany,1276923210.0,DE,DEU,49.0,8.4,377487.0
+10143,California,,Pacifica,Pacifica,United States,1840020307.0,US,USA,37.6112,-122.4781,39062.0
+2789,Stockholm,primary,Stockholm,Stockholm,Sweden,1752425602.0,SE,SWE,59.3508,18.0973,1264000.0
+5958,Beijing,primary,Beijing,Beijing,China,1156228865.0,CN,CHN,39.9289,116.3883,11106000.0
+6782,North Ayrshire,admin,Irvine,Irvine,United Kingdom,1826965925.0,GB,GBR,55.6,-4.6667,
+6314,Baden-Württemberg,minor,Karlsruhe,Karlsruhe,Germany,1276923210.0,DE,DEU,49.0,8.4,377487.0
+919,Rabat (Ghawdex),admin,Victoria,Victoria,Malta,1470128499.0,MT,MLT,36.0444,14.2397,
+3724,Florida,admin,Florida,Florida,Uruguay,1858077099.0,UY,URY,-34.099,-56.215,32234.0
+330,Western,,Moratuwa,Moratuwa,Sri Lanka,1144324309.0,LK,LKA,6.7804,79.88,200000.0
+7842,Aichi,admin,Nagoya,Nagoya,Japan,1392407472.0,JP,JPN,35.155,136.915,3230000.0
+8236,Delaware,,Newark,Newark,United States,1840005578.0,US,USA,39.6777,-75.7573,33398.0
+6280,Bavaria,admin,Munich,Munich,Germany,1276692352.0,DE,DEU,48.1299,11.575,1275000.0
+6600,Madrid,primary,Madrid,Madrid,Spain,1724616994.0,ES,ESP,40.4,-3.6834,5567000.0
+5734,Shanghai,admin,Shanghai,Shanghai,China,1156073548.0,CN,CHN,31.2165,121.4365,14987000.0
+5789,Guangxi,admin,Nanning,Nanning,China,1156605439.0,CN,CHN,22.82,108.32,2167000.0
+10798,Illinois,,Lemont,Lemont,United States,1840011258.0,US,USA,41.6697,-87.9831,16895.0
+5958,Beijing,primary,Beijing,Beijing,China,1156228865.0,CN,CHN,39.9289,116.3883,11106000.0
+1509,Waikato,,Cambridge,Cambridge,New Zealand,1554000000.0,NZ,NZL,-37.8894,175.4703,15192.0
+6314,Baden-Württemberg,minor,Karlsruhe,Karlsruhe,Germany,1276923210.0,DE,DEU,49.0,8.4,377487.0
+7842,Aichi,admin,Nagoya,Nagoya,Japan,1392407472.0,JP,JPN,35.155,136.915,3230000.0
+10322,California,,Berkeley,Berkeley,United States,1840018914.0,US,USA,37.8723,-122.276,121240.0
+6693,Hauts-de-France,admin,Lille,Lille,France,1250071961.0,FR,FRA,50.65,3.08,1044000.0
+11608,Maine,,Saco,Saco,United States,1840000343.0,US,USA,43.539,-70.4624,19213.0
+6685,Île-de-France,primary,Paris,Paris,France,1250015082.0,FR,FRA,48.8667,2.3333,9904000.0
+9166,Texas,,Universal City,Universal City,United States,1840022225.0,US,USA,29.5521,-98.3074,20359.0
+5755,Hunan,admin,Changsha,Changsha,China,1156961497.0,CN,CHN,28.2,112.97,2604000.0
+7810,Tōkyō,primary,Tokyo,Tokyo,Japan,1392685764.0,JP,JPN,35.685,139.7514,35676000.0
+9524,Tennessee,,Columbia,Columbia,United States,1840014518.0,US,USA,35.6223,-87.048,37845.0
+4420,Queensland,admin,Brisbane,Brisbane,Australia,1036192929.0,AU,AUS,-27.455,153.0351,1860000.0
+6280,Bavaria,admin,Munich,Munich,Germany,1276692352.0,DE,DEU,48.1299,11.575,1275000.0
+6308,Lower Saxony,minor,Göttingen,Gottingen,Germany,1276211234.0,DE,DEU,51.5204,9.92,139419.0
+7842,Aichi,admin,Nagoya,Nagoya,Japan,1392407472.0,JP,JPN,35.155,136.915,3230000.0
+6291,Baden-Württemberg,admin,Stuttgart,Stuttgart,Germany,1276171358.0,DE,DEU,48.78,9.2,2944700.0
+10696,Arkansas,,Lowell,Lowell,United States,1840015285.0,US,USA,36.2563,-94.152,8922.0
+6269,"Praha, Hlavní Město",primary,Prague,Prague,Czechia,1203744823.0,CZ,CZE,50.0833,14.466,1162000.0
+6102,Jiangsu,admin,Nanjing,Nanjing,China,1156644065.0,CN,CHN,32.05,118.78,3679000.0
+6694,Auvergne-Rhône-Alpes,admin,Lyon,Lyon,France,1250196189.0,FR,FRA,45.77,4.83,1423000.0
+6658,Varsinais-Suomi,admin,Turku,Turku,Finland,1246456609.0,FI,FIN,60.4539,22.255,175945.0
+5914,Hubei,admin,Wuhan,Wuhan,China,1156117184.0,CN,CHN,30.58,114.27,7243000.0
+8821,New Jersey,,Carlstadt,Carlstadt,United States,1840000895.0,US,USA,40.825,-74.0614,6249.0
+2789,Stockholm,primary,Stockholm,Stockholm,Sweden,1752425602.0,SE,SWE,59.3508,18.0973,1264000.0
+6324,Baden-Württemberg,minor,Ulm,Ulm,Germany,1276002212.0,DE,DEU,48.4004,10.0,172955.0
+2809,,primary,Singapore,Singapore,Singapore,1702341327.0,SG,SGP,1.293,103.8558,5183700.0
+2789,Stockholm,primary,Stockholm,Stockholm,Sweden,1752425602.0,SE,SWE,59.3508,18.0973,1264000.0
+8010,Seoul,primary,Seoul,Seoul,"Korea, South",1410836482.0,KR,KOR,37.5663,126.9997,9796000.0
+8491,Florida,,Sanford,Sanford,United States,1840015958.0,US,USA,28.7892,-81.276,58605.0
+8184,Virginia,,Charlottesville,Charlottesville,United States,1840001678.0,US,USA,38.0374,-78.4856,99664.0
+5556,Zürich,admin,Zürich,Zurich,Switzerland,1756539143.0,CH,CHE,47.38,8.55,1108000.0
+6727,Auvergne-Rhône-Alpes,minor,Grenoble,Grenoble,France,1250071647.0,FR,FRA,45.1804,5.72,388574.0
+432,Luxembourg,primary,Luxembourg,Luxembourg,Luxembourg,1442262731.0,LU,LUX,49.6117,6.13,107260.0
+9366,North Carolina,,Charlotte,Charlotte,United States,1840014557.0,US,USA,35.208,-80.8308,1438351.0
+5060,São Paulo,,Franca,Franca,Brazil,1076740256.0,BR,BRA,-20.53,-47.39,305041.0
+6280,Bavaria,admin,Munich,Munich,Germany,1276692352.0,DE,DEU,48.1299,11.575,1275000.0
+5958,Beijing,primary,Beijing,Beijing,China,1156228865.0,CN,CHN,39.9289,116.3883,11106000.0
+2036,Inđija,admin,Inđija,Indija,Serbia,1688349740.0,RS,SRB,45.0482,20.0816,
+4225,Steiermark,admin,Graz,Graz,Austria,1040184559.0,AT,AUT,47.0778,15.41,263234.0
+5556,Zürich,admin,Zürich,Zurich,Switzerland,1756539143.0,CH,CHE,47.38,8.55,1108000.0
+7726,Lombardy,admin,Milan,Milan,Italy,1380724377.0,IT,ITA,45.47,9.205,2945000.0
+4368,Queensland,,Warwick,Warwick,Australia,1036412726.0,AU,AUS,-28.2292,152.0203,12347.0
+6297,North Rhine-Westphalia,minor,Dortmund,Dortmund,Germany,1276562886.0,DE,DEU,51.53,7.45,588462.0
+6758,Oxfordshire,admin,Oxford,Oxford,United Kingdom,1826689568.0,GB,GBR,51.7704,-1.25,192796.0
+8994,Texas,,Atlanta,Atlanta,United States,1840019407.0,US,USA,33.1136,-94.1672,5694.0
+6758,Oxfordshire,admin,Oxford,Oxford,United Kingdom,1826689568.0,GB,GBR,51.7704,-1.25,192796.0
+6314,Baden-Württemberg,minor,Karlsruhe,Karlsruhe,Germany,1276923210.0,DE,DEU,49.0,8.4,377487.0
+7833,Kyōto,admin,Kyoto,Kyoto,Japan,1392622735.0,JP,JPN,35.03,135.75,1805000.0
+7851,Shizuoka,admin,Shizuoka,Shizuoka,Japan,1392235505.0,JP,JPN,34.9858,138.3854,701561.0
+6280,Bavaria,admin,Munich,Munich,Germany,1276692352.0,DE,DEU,48.1299,11.575,1275000.0
+6939,York,admin,York,York,United Kingdom,1826149980.0,GB,GBR,53.9704,-1.08,158947.0
+10203,California,admin,Sacramento,Sacramento,United States,1840021491.0,US,USA,38.5666,-121.4683,1830061.0
+2809,,primary,Singapore,Singapore,Singapore,1702341327.0,SG,SGP,1.293,103.8558,5183700.0
+6329,Hesse,minor,Frankfurt,Frankfurt,Germany,1276054552.0,DE,DEU,50.1,8.675,2895000.0
+6314,Baden-Württemberg,minor,Karlsruhe,Karlsruhe,Germany,1276923210.0,DE,DEU,49.0,8.4,377487.0
+4728,Bahia,admin,Salvador,Salvador,Brazil,1076923789.0,BR,BRA,-12.97,-38.48,3484000.0
+4368,Queensland,,Warwick,Warwick,Australia,1036412726.0,AU,AUS,-28.2292,152.0203,12347.0
+6280,Bavaria,admin,Munich,Munich,Germany,1276692352.0,DE,DEU,48.1299,11.575,1275000.0
+5406,Québec,,Montréal,Montreal,Canada,1124586170.0,CA,CAN,45.5,-73.5833,3678000.0
+6269,"Praha, Hlavní Město",primary,Prague,Prague,Czechia,1203744823.0,CZ,CZE,50.0833,14.466,1162000.0
+9161,Texas,admin,Austin,Austin,United States,1840019590.0,US,USA,30.3038,-97.7545,1633847.0
+3729,Lavalleja,admin,Minas,Minas,Uruguay,1858724823.0,UY,URY,-34.37,-55.23,41180.0
+10481,Colorado,,Fountain,Fountain,United States,1840020236.0,US,USA,38.6863,-104.6744,28753.0
+6280,Bavaria,admin,Munich,Munich,Germany,1276692352.0,DE,DEU,48.1299,11.575,1275000.0
+1509,Waikato,,Cambridge,Cambridge,New Zealand,1554000000.0,NZ,NZL,-37.8894,175.4703,15192.0
+6145,Tolima,,Honda,Honda,Colombia,1170848069.0,CO,COL,5.1903,-74.75,35469.0
+8019,Daejeon,admin,Daejeon,Daejeon,"Korea, South",1410993875.0,KR,KOR,36.3355,127.425,1468000.0
+7810,Tōkyō,primary,Tokyo,Tokyo,Japan,1392685764.0,JP,JPN,35.685,139.7514,35676000.0
+2780,Västra Götaland,admin,Göteborg,Goteborg,Sweden,1752059374.0,SE,SWE,57.75,12.0,537797.0
+1509,Waikato,,Cambridge,Cambridge,New Zealand,1554000000.0,NZ,NZL,-37.8894,175.4703,15192.0
+8017,Daegu,admin,Daegu,Daegu,"Korea, South",1410095252.0,KR,KOR,35.8668,128.607,2460000.0
+4368,Queensland,,Warwick,Warwick,Australia,1036412726.0,AU,AUS,-28.2292,152.0203,12347.0
+1453,,minor,Trondheim,Trondheim,Norway,1578633461.0,NO,NOR,63.4167,10.4167,147139.0
+7055,Labé,admin,Labé,Labe,Guinea,1324900784.0,GN,GIN,11.32,-12.3,140575.0
+6280,Bavaria,admin,Munich,Munich,Germany,1276692352.0,DE,DEU,48.1299,11.575,1275000.0
+9161,Texas,admin,Austin,Austin,United States,1840019590.0,US,USA,30.3038,-97.7545,1633847.0
+9166,Texas,,Universal City,Universal City,United States,1840022225.0,US,USA,29.5521,-98.3074,20359.0
+6280,Bavaria,admin,Munich,Munich,Germany,1276692352.0,DE,DEU,48.1299,11.575,1275000.0
+5734,Shanghai,admin,Shanghai,Shanghai,China,1156073548.0,CN,CHN,31.2165,121.4365,14987000.0
+1480,Canterbury,,Christchurch,Christchurch,New Zealand,1554377228.0,NZ,NZL,-43.535,172.63,363200.0
+9913,Pennsylvania,,Carbondale,Carbondale,United States,1840003376.0,US,USA,41.5714,-75.5048,8498.0
+7836,Ehime,admin,Matsuyama,Matsuyama,Japan,1392220893.0,JP,JPN,33.8455,132.7658,533541.0
+432,Luxembourg,primary,Luxembourg,Luxembourg,Luxembourg,1442262731.0,LU,LUX,49.6117,6.13,107260.0
+789,Ségou,minor,San,San,Mali,1466198810.0,ML,MLI,13.3004,-4.9,41386.0
+6297,North Rhine-Westphalia,minor,Dortmund,Dortmund,Germany,1276562886.0,DE,DEU,51.53,7.45,588462.0
+8010,Seoul,primary,Seoul,Seoul,"Korea, South",1410836482.0,KR,KOR,37.5663,126.9997,9796000.0
+6287,North Rhine-Westphalia,admin,Düsseldorf,Dusseldorf,Germany,1276615258.0,DE,DEU,51.2204,6.78,1220000.0
+6939,York,admin,York,York,United Kingdom,1826149980.0,GB,GBR,53.9704,-1.08,158947.0
+6280,Bavaria,admin,Munich,Munich,Germany,1276692352.0,DE,DEU,48.1299,11.575,1275000.0
+6316,Bavaria,minor,Ingolstadt,Ingolstadt,Germany,1276803150.0,DE,DEU,48.7704,11.45,163325.0
+5958,Beijing,primary,Beijing,Beijing,China,1156228865.0,CN,CHN,39.9289,116.3883,11106000.0
+9166,Texas,,Universal City,Universal City,United States,1840022225.0,US,USA,29.5521,-98.3074,20359.0
+6280,Bavaria,admin,Munich,Munich,Germany,1276692352.0,DE,DEU,48.1299,11.575,1275000.0
+5958,Beijing,primary,Beijing,Beijing,China,1156228865.0,CN,CHN,39.9289,116.3883,11106000.0
+6758,Oxfordshire,admin,Oxford,Oxford,United Kingdom,1826689568.0,GB,GBR,51.7704,-1.25,192796.0
+1955,Cluj,admin,Cluj-Napoca,Cluj-Napoca,Romania,1642503974.0,RO,ROU,46.7884,23.5984,316748.0
+1486,Waikato,,Hamilton,Hamilton,New Zealand,1554873040.0,NZ,NZL,-37.7783,175.2896,148200.0
+114,Gauteng,,Springs,Springs,South Africa,1710058382.0,ZA,ZAF,-26.2696,28.43,236083.0
+11909,Ohio,,Cincinnati,Cincinnati,United States,1840003814.0,US,USA,39.1412,-84.506,1634573.0
+6280,Bavaria,admin,Munich,Munich,Germany,1276692352.0,DE,DEU,48.1299,11.575,1275000.0
+5770,Anhui,,Suzhou,Suzhou,China,1156871297.0,CN,CHN,33.6361,116.9789,1964000.0
+5897,Henan,,Nanyang,Nanyang,China,1156192287.0,CN,CHN,33.0004,112.53,1944000.0
+8821,New Jersey,,Carlstadt,Carlstadt,United States,1840000895.0,US,USA,40.825,-74.0614,6249.0
+6770,Nottingham,admin,Nottingham,Nottingham,United Kingdom,1826122597.0,GB,GBR,52.9703,-1.17,825600.0
+5958,Beijing,primary,Beijing,Beijing,China,1156228865.0,CN,CHN,39.9289,116.3883,11106000.0
+6280,Bavaria,admin,Munich,Munich,Germany,1276692352.0,DE,DEU,48.1299,11.575,1275000.0
+6314,Baden-Württemberg,minor,Karlsruhe,Karlsruhe,Germany,1276923210.0,DE,DEU,49.0,8.4,377487.0
+5958,Beijing,primary,Beijing,Beijing,China,1156228865.0,CN,CHN,39.9289,116.3883,11106000.0
+5291,Alberta,admin,Edmonton,Edmonton,Canada,1124290735.0,CA,CAN,53.55,-113.5,1058000.0
+7842,Aichi,admin,Nagoya,Nagoya,Japan,1392407472.0,JP,JPN,35.155,136.915,3230000.0
+5958,Beijing,primary,Beijing,Beijing,China,1156228865.0,CN,CHN,39.9289,116.3883,11106000.0
+9166,Texas,,Universal City,Universal City,United States,1840022225.0,US,USA,29.5521,-98.3074,20359.0
+6685,Île-de-France,primary,Paris,Paris,France,1250015082.0,FR,FRA,48.8667,2.3333,9904000.0
+7842,Aichi,admin,Nagoya,Nagoya,Japan,1392407472.0,JP,JPN,35.155,136.915,3230000.0
+1509,Waikato,,Cambridge,Cambridge,New Zealand,1554000000.0,NZ,NZL,-37.8894,175.4703,15192.0
+9161,Texas,admin,Austin,Austin,United States,1840019590.0,US,USA,30.3038,-97.7545,1633847.0
+9166,Texas,,Universal City,Universal City,United States,1840022225.0,US,USA,29.5521,-98.3074,20359.0
+7377,Dublin,primary,Dublin,Dublin,Ireland,1372595407.0,IE,IRL,53.3331,-6.2489,1059000.0
+6314,Baden-Württemberg,minor,Karlsruhe,Karlsruhe,Germany,1276923210.0,DE,DEU,49.0,8.4,377487.0
+10322,California,,Berkeley,Berkeley,United States,1840018914.0,US,USA,37.8723,-122.276,121240.0
+9787,New York,,Lawrence,Lawrence,United States,1840005303.0,US,USA,40.6042,-73.7149,6558.0
+6280,Bavaria,admin,Munich,Munich,Germany,1276692352.0,DE,DEU,48.1299,11.575,1275000.0
+3724,Florida,admin,Florida,Florida,Uruguay,1858077099.0,UY,URY,-34.099,-56.215,32234.0
+6298,North Rhine-Westphalia,minor,Duisburg,Duisburg,Germany,1276977172.0,DE,DEU,51.43,6.75,1276757.0
+6314,Baden-Württemberg,minor,Karlsruhe,Karlsruhe,Germany,1276923210.0,DE,DEU,49.0,8.4,377487.0
+5303,Ontario,,London,London,Canada,1124469960.0,CA,CAN,42.97,-81.25,346765.0
+5958,Beijing,primary,Beijing,Beijing,China,1156228865.0,CN,CHN,39.9289,116.3883,11106000.0
+5556,Zürich,admin,Zürich,Zurich,Switzerland,1756539143.0,CH,CHE,47.38,8.55,1108000.0
+2789,Stockholm,primary,Stockholm,Stockholm,Sweden,1752425602.0,SE,SWE,59.3508,18.0973,1264000.0
+4983,São Paulo,,Campinas,Campinas,Brazil,1076145766.0,BR,BRA,-22.9,-47.1,2791000.0
+2809,,primary,Singapore,Singapore,Singapore,1702341327.0,SG,SGP,1.293,103.8558,5183700.0
+9166,Texas,,Universal City,Universal City,United States,1840022225.0,US,USA,29.5521,-98.3074,20359.0
+4249,New South Wales,,Forbes,Forbes,Australia,1036523834.0,AU,AUS,-33.3896,148.02,4838.0
+7377,Dublin,primary,Dublin,Dublin,Ireland,1372595407.0,IE,IRL,53.3331,-6.2489,1059000.0
+6314,Baden-Württemberg,minor,Karlsruhe,Karlsruhe,Germany,1276923210.0,DE,DEU,49.0,8.4,377487.0
+7842,Aichi,admin,Nagoya,Nagoya,Japan,1392407472.0,JP,JPN,35.155,136.915,3230000.0
+5571,Vaud,admin,Lausanne,Lausanne,Switzerland,1756055099.0,CH,CHE,46.5304,6.65,265702.0
+7810,Tōkyō,primary,Tokyo,Tokyo,Japan,1392685764.0,JP,JPN,35.685,139.7514,35676000.0
+9166,Texas,,Universal City,Universal City,United States,1840022225.0,US,USA,29.5521,-98.3074,20359.0
+9166,Texas,,Universal City,Universal City,United States,1840022225.0,US,USA,29.5521,-98.3074,20359.0
+5585,Bas-Sassandra,,Soubré,Soubre,C𴥠DӉvoire,1384162809.0,CI,CIV,5.7904,-6.61,108933.0
+4897,São Paulo,,Americana,Americana,Brazil,1076922153.0,BR,BRA,-22.7499,-47.33,479472.0
+5360,British Columbia,,Tofino,Tofino,Canada,1124140302.0,CA,CAN,49.1521,-125.9031,1655.0
+5743,Jiangxi,admin,Nanchang,Nanchang,China,1156198892.0,CN,CHN,28.68,115.88,2350000.0
+1724,Guimaras,admin,Jordan,Jordan,Philippines,1608769914.0,PH,PHL,10.6584,122.5963,
+5958,Beijing,primary,Beijing,Beijing,China,1156228865.0,CN,CHN,39.9289,116.3883,11106000.0
+5958,Beijing,primary,Beijing,Beijing,China,1156228865.0,CN,CHN,39.9289,116.3883,11106000.0
+6286,Lower Saxony,admin,Hannover,Hannover,Germany,1276457707.0,DE,DEU,52.367,9.7167,722490.0
+8010,Seoul,primary,Seoul,Seoul,"Korea, South",1410836482.0,KR,KOR,37.5663,126.9997,9796000.0
+5783,Heilongjiang,admin,Harbin,Harbin,China,1156241528.0,CN,CHN,45.75,126.65,3621000.0
+9161,Texas,admin,Austin,Austin,United States,1840019590.0,US,USA,30.3038,-97.7545,1633847.0
+7721,Liguria,admin,Genoa,Genoa,Italy,1380716540.0,IT,ITA,44.41,8.93,647497.0
+9927,Pennsylvania,,Carnegie,Carnegie,United States,1840001214.0,US,USA,40.408,-80.0861,7913.0
+6145,Tolima,,Honda,Honda,Colombia,1170848069.0,CO,COL,5.1903,-74.75,35469.0
+5556,Zürich,admin,Zürich,Zurich,Switzerland,1756539143.0,CH,CHE,47.38,8.55,1108000.0
+4368,Queensland,,Warwick,Warwick,Australia,1036412726.0,AU,AUS,-28.2292,152.0203,12347.0
+5789,Guangxi,admin,Nanning,Nanning,China,1156605439.0,CN,CHN,22.82,108.32,2167000.0
+10670,Arkansas,,Centerton,Centerton,United States,1840014441.0,US,USA,36.3551,-94.296,12861.0
+12477,Michigan,,Southfield,Southfield,United States,1840002431.0,US,USA,42.4765,-83.2605,73100.0
+5037,Rio de Janeiro,,Campos,Campos,Brazil,1076606365.0,BR,BRA,-21.75,-41.32,387417.0
+5303,Ontario,,London,London,Canada,1124469960.0,CA,CAN,42.97,-81.25,346765.0
+7842,Aichi,admin,Nagoya,Nagoya,Japan,1392407472.0,JP,JPN,35.155,136.915,3230000.0
+6280,Bavaria,admin,Munich,Munich,Germany,1276692352.0,DE,DEU,48.1299,11.575,1275000.0
+6683,Pays de la Loire,admin,Nantes,Nantes,France,1250091495.0,FR,FRA,47.2104,-1.59,438537.0
+9161,Texas,admin,Austin,Austin,United States,1840019590.0,US,USA,30.3038,-97.7545,1633847.0
+6311,Lower Saxony,minor,Braunschweig,Braunschweig,Germany,1276941443.0,DE,DEU,52.25,10.5,244715.0
+5958,Beijing,primary,Beijing,Beijing,China,1156228865.0,CN,CHN,39.9289,116.3883,11106000.0
+2809,,primary,Singapore,Singapore,Singapore,1702341327.0,SG,SGP,1.293,103.8558,5183700.0
+8270,Wisconsin,,Columbus,Columbus,United States,1840002708.0,US,USA,43.3354,-89.0299,6674.0
+3729,Lavalleja,admin,Minas,Minas,Uruguay,1858724823.0,UY,URY,-34.37,-55.23,41180.0
+8019,Daejeon,admin,Daejeon,Daejeon,"Korea, South",1410993875.0,KR,KOR,36.3355,127.425,1468000.0
+7810,Tōkyō,primary,Tokyo,Tokyo,Japan,1392685764.0,JP,JPN,35.685,139.7514,35676000.0
+6690,Nouvelle-Aquitaine,admin,Bordeaux,Bordeaux,France,1250449238.0,FR,FRA,44.85,-0.595,803000.0
+5734,Shanghai,admin,Shanghai,Shanghai,China,1156073548.0,CN,CHN,31.2165,121.4365,14987000.0
+6323,Bavaria,minor,Hof,Hof,Germany,1276561363.0,DE,DEU,50.317,11.9167,56153.0
+9426,North Carolina,,Nashville,Nashville,United States,1840016167.0,US,USA,35.9678,-77.9547,5528.0
+4222,Oberösterreich,admin,Linz,Linz,Austria,1040261171.0,AT,AUT,48.3192,14.2888,349161.0
+9136,Texas,,Dallas,Dallas,United States,1840019440.0,US,USA,32.7938,-96.7659,5634307.0
+7721,Liguria,admin,Genoa,Genoa,Italy,1380716540.0,IT,ITA,44.41,8.93,647497.0
+8821,New Jersey,,Carlstadt,Carlstadt,United States,1840000895.0,US,USA,40.825,-74.0614,6249.0
+2809,,primary,Singapore,Singapore,Singapore,1702341327.0,SG,SGP,1.293,103.8558,5183700.0
+6280,Bavaria,admin,Munich,Munich,Germany,1276692352.0,DE,DEU,48.1299,11.575,1275000.0
+1547,Veraguas,admin,Santiago,Santiago,Panama,1591231138.0,PA,PAN,8.1004,-80.9833,45955.0
+6280,Bavaria,admin,Munich,Munich,Germany,1276692352.0,DE,DEU,48.1299,11.575,1275000.0
+9166,Texas,,Universal City,Universal City,United States,1840022225.0,US,USA,29.5521,-98.3074,20359.0
+6280,Bavaria,admin,Munich,Munich,Germany,1276692352.0,DE,DEU,48.1299,11.575,1275000.0
+5734,Shanghai,admin,Shanghai,Shanghai,China,1156073548.0,CN,CHN,31.2165,121.4365,14987000.0
+5934,Guangdong,admin,Guangzhou,Guangzhou,China,1156237133.0,CN,CHN,23.145,113.325,8829000.0
+7842,Aichi,admin,Nagoya,Nagoya,Japan,1392407472.0,JP,JPN,35.155,136.915,3230000.0
+7713,Lazio,primary,Rome,Rome,Italy,1380382862.0,IT,ITA,41.896,12.4833,3339000.0
+8429,Hawaii,admin,Honolulu,Honolulu,United States,1840013305.0,US,USA,21.3293,-157.846,836995.0
+5958,Beijing,primary,Beijing,Beijing,China,1156228865.0,CN,CHN,39.9289,116.3883,11106000.0
+3724,Florida,admin,Florida,Florida,Uruguay,1858077099.0,UY,URY,-34.099,-56.215,32234.0
+9787,New York,,Lawrence,Lawrence,United States,1840005303.0,US,USA,40.6042,-73.7149,6558.0
+5755,Hunan,admin,Changsha,Changsha,China,1156961497.0,CN,CHN,28.2,112.97,2604000.0
+4316,New South Wales,,Richmond,Richmond,Australia,1036934091.0,AU,AUS,-33.5995,150.74,13880.0
+6311,Lower Saxony,minor,Braunschweig,Braunschweig,Germany,1276941443.0,DE,DEU,52.25,10.5,244715.0
+5958,Beijing,primary,Beijing,Beijing,China,1156228865.0,CN,CHN,39.9289,116.3883,11106000.0
+6291,Baden-Württemberg,admin,Stuttgart,Stuttgart,Germany,1276171358.0,DE,DEU,48.78,9.2,2944700.0
+9166,Texas,,Universal City,Universal City,United States,1840022225.0,US,USA,29.5521,-98.3074,20359.0
+8186,Virginia,,Norfolk,Norfolk,United States,1840003869.0,US,USA,36.8945,-76.259,245115.0
+9166,Texas,,Universal City,Universal City,United States,1840022225.0,US,USA,29.5521,-98.3074,20359.0
+6323,Bavaria,minor,Hof,Hof,Germany,1276561363.0,DE,DEU,50.317,11.9167,56153.0
+6102,Jiangsu,admin,Nanjing,Nanjing,China,1156644065.0,CN,CHN,32.05,118.78,3679000.0
+7711,Trentino-Alto Adige,admin,Trento,Trento,Italy,1380953307.0,IT,ITA,46.0804,11.12,107808.0
+9166,Texas,,Universal City,Universal City,United States,1840022225.0,US,USA,29.5521,-98.3074,20359.0
+6686,Auvergne-Rhône-Alpes,minor,Clermont-Ferrand,Clermont-Ferrand,France,1250135509.0,FR,FRA,45.78,3.08,233050.0
+5303,Ontario,,London,London,Canada,1124469960.0,CA,CAN,42.97,-81.25,346765.0
+8642,Florida,,Jacksonville,Jacksonville,United States,1840015031.0,US,USA,30.3322,-81.6749,1141459.0
+4316,New South Wales,,Richmond,Richmond,Australia,1036934091.0,AU,AUS,-33.5995,150.74,13880.0
+7445,Karnātaka,admin,Bangalore,Bangalore,India,1356410365.0,IN,IND,12.97,77.56,6787000.0
+8944,Texas,,Anna,Anna,United States,1840019397.0,US,USA,33.3475,-96.5512,15554.0
+5755,Hunan,admin,Changsha,Changsha,China,1156961497.0,CN,CHN,28.2,112.97,2604000.0
+5290,Ontario,admin,Toronto,Toronto,Canada,1124279679.0,CA,CAN,43.7,-79.42,5213000.0
+6758,Oxfordshire,admin,Oxford,Oxford,United Kingdom,1826689568.0,GB,GBR,51.7704,-1.25,192796.0
+4222,Oberösterreich,admin,Linz,Linz,Austria,1040261171.0,AT,AUT,48.3192,14.2888,349161.0
+6280,Bavaria,admin,Munich,Munich,Germany,1276692352.0,DE,DEU,48.1299,11.575,1275000.0
+3389,İstanbul,admin,Istanbul,Istanbul,Turkey,1792756324.0,TR,TUR,41.105,29.01,10061000.0
+6324,Baden-Württemberg,minor,Ulm,Ulm,Germany,1276002212.0,DE,DEU,48.4004,10.0,172955.0
+2809,,primary,Singapore,Singapore,Singapore,1702341327.0,SG,SGP,1.293,103.8558,5183700.0
+8910,Texas,,Pasadena,Pasadena,United States,1840020930.0,US,USA,29.6583,-95.1498,153351.0
+5734,Shanghai,admin,Shanghai,Shanghai,China,1156073548.0,CN,CHN,31.2165,121.4365,14987000.0
+6290,Hamburg,admin,Hamburg,Hamburg,Germany,1276041799.0,DE,DEU,53.55,10.0,1757000.0
+6758,Oxfordshire,admin,Oxford,Oxford,United Kingdom,1826689568.0,GB,GBR,51.7704,-1.25,192796.0
+9166,Texas,,Universal City,Universal City,United States,1840022225.0,US,USA,29.5521,-98.3074,20359.0
+8944,Texas,,Anna,Anna,United States,1840019397.0,US,USA,33.3475,-96.5512,15554.0
+6280,Bavaria,admin,Munich,Munich,Germany,1276692352.0,DE,DEU,48.1299,11.575,1275000.0
+6770,Nottingham,admin,Nottingham,Nottingham,United Kingdom,1826122597.0,GB,GBR,52.9703,-1.17,825600.0
+9166,Texas,,Universal City,Universal City,United States,1840022225.0,US,USA,29.5521,-98.3074,20359.0
+6280,Bavaria,admin,Munich,Munich,Germany,1276692352.0,DE,DEU,48.1299,11.575,1275000.0
+7861,Kanagawa,admin,Yokohama,Yokohama,Japan,1392118339.0,JP,JPN,35.32,139.58,3697894.0
+5758,Jilin,,Jilin,Jilin,China,1156646448.0,CN,CHN,43.85,126.55,2396000.0
+7229,Budapest,primary,Budapest,Budapest,Hungary,1348611435.0,HU,HUN,47.5,19.0833,1679000.0
+5734,Shanghai,admin,Shanghai,Shanghai,China,1156073548.0,CN,CHN,31.2165,121.4365,14987000.0
+5958,Beijing,primary,Beijing,Beijing,China,1156228865.0,CN,CHN,39.9289,116.3883,11106000.0
+2036,Inđija,admin,Inđija,Indija,Serbia,1688349740.0,RS,SRB,45.0482,20.0816,
+6316,Bavaria,minor,Ingolstadt,Ingolstadt,Germany,1276803150.0,DE,DEU,48.7704,11.45,163325.0
+8236,Delaware,,Newark,Newark,United States,1840005578.0,US,USA,39.6777,-75.7573,33398.0
+6280,Bavaria,admin,Munich,Munich,Germany,1276692352.0,DE,DEU,48.1299,11.575,1275000.0
+7726,Lombardy,admin,Milan,Milan,Italy,1380724377.0,IT,ITA,45.47,9.205,2945000.0
+5931,Shandong,admin,Jinan,Jinan,China,1156972469.0,CN,CHN,36.675,116.995,2798000.0
+6280,Bavaria,admin,Munich,Munich,Germany,1276692352.0,DE,DEU,48.1299,11.575,1275000.0
+6280,Bavaria,admin,Munich,Munich,Germany,1276692352.0,DE,DEU,48.1299,11.575,1275000.0
+4320,Queensland,,Roma,Roma,Australia,1036698836.0,AU,AUS,-26.5594,148.7907,5496.0
+5958,Beijing,primary,Beijing,Beijing,China,1156228865.0,CN,CHN,39.9289,116.3883,11106000.0
+5958,Beijing,primary,Beijing,Beijing,China,1156228865.0,CN,CHN,39.9289,116.3883,11106000.0
+8380,Wisconsin,,Superior,Superior,United States,1840038034.0,US,USA,46.694,-92.0823,26475.0
+789,Ségou,minor,San,San,Mali,1466198810.0,ML,MLI,13.3004,-4.9,41386.0
+9166,Texas,,Universal City,Universal City,United States,1840022225.0,US,USA,29.5521,-98.3074,20359.0
+3724,Florida,admin,Florida,Florida,Uruguay,1858077099.0,UY,URY,-34.099,-56.215,32234.0
+6697,Normandie,admin,Rouen,Rouen,France,1250372069.0,FR,FRA,49.4304,1.08,532559.0
+3224,Chai Nat,admin,Chainat,Chainat,Thailand,1764848732.0,TH,THA,15.179,100.126,15469.0
+9166,Texas,,Universal City,Universal City,United States,1840022225.0,US,USA,29.5521,-98.3074,20359.0
+6269,"Praha, Hlavní Město",primary,Prague,Prague,Czechia,1203744823.0,CZ,CZE,50.0833,14.466,1162000.0
+5958,Beijing,primary,Beijing,Beijing,China,1156228865.0,CN,CHN,39.9289,116.3883,11106000.0
+7726,Lombardy,admin,Milan,Milan,Italy,1380724377.0,IT,ITA,45.47,9.205,2945000.0
+11410,Iowa,,Ames,Ames,United States,1840007019.0,US,USA,42.0262,-93.6275,67841.0
+9166,Texas,,Universal City,Universal City,United States,1840022225.0,US,USA,29.5521,-98.3074,20359.0
+7810,Tōkyō,primary,Tokyo,Tokyo,Japan,1392685764.0,JP,JPN,35.685,139.7514,35676000.0
+7729,Tuscany,admin,Florence,Florence,Italy,1380726561.0,IT,ITA,43.78,11.25,1500000.0
+4225,Steiermark,admin,Graz,Graz,Austria,1040184559.0,AT,AUT,47.0778,15.41,263234.0
+7842,Aichi,admin,Nagoya,Nagoya,Japan,1392407472.0,JP,JPN,35.155,136.915,3230000.0
+6324,Baden-Württemberg,minor,Ulm,Ulm,Germany,1276002212.0,DE,DEU,48.4004,10.0,172955.0
+6324,Baden-Württemberg,minor,Ulm,Ulm,Germany,1276002212.0,DE,DEU,48.4004,10.0,172955.0
+6280,Bavaria,admin,Munich,Munich,Germany,1276692352.0,DE,DEU,48.1299,11.575,1275000.0
+6331,Saxony,minor,Chemnitz,Chemnitz,Germany,1276519956.0,DE,DEU,50.83,12.92,302643.0
+6311,Lower Saxony,minor,Braunschweig,Braunschweig,Germany,1276941443.0,DE,DEU,52.25,10.5,244715.0
+6324,Baden-Württemberg,minor,Ulm,Ulm,Germany,1276002212.0,DE,DEU,48.4004,10.0,172955.0
+5290,Ontario,admin,Toronto,Toronto,Canada,1124279679.0,CA,CAN,43.7,-79.42,5213000.0
+9161,Texas,admin,Austin,Austin,United States,1840019590.0,US,USA,30.3038,-97.7545,1633847.0
+9787,New York,,Lawrence,Lawrence,United States,1840005303.0,US,USA,40.6042,-73.7149,6558.0
+4609,Sofia-Grad,primary,Sofia,Sofia,Bulgaria,1100762037.0,BG,BGR,42.6833,23.3167,1185000.0
+9161,Texas,admin,Austin,Austin,United States,1840019590.0,US,USA,30.3038,-97.7545,1633847.0
+5755,Hunan,admin,Changsha,Changsha,China,1156961497.0,CN,CHN,28.2,112.97,2604000.0
+6758,Oxfordshire,admin,Oxford,Oxford,United Kingdom,1826689568.0,GB,GBR,51.7704,-1.25,192796.0
+5889,Guangdong,minor,Shenzhen,Shenzhen,China,1156158707.0,CN,CHN,22.5524,114.1221,7581000.0
+1695,Angeles,admin,Angeles,Angeles,Philippines,1608036027.0,PH,PHL,15.1451,120.5451,314493.0
+6280,Bavaria,admin,Munich,Munich,Germany,1276692352.0,DE,DEU,48.1299,11.575,1275000.0
+6297,North Rhine-Westphalia,minor,Dortmund,Dortmund,Germany,1276562886.0,DE,DEU,51.53,7.45,588462.0
+1509,Waikato,,Cambridge,Cambridge,New Zealand,1554000000.0,NZ,NZL,-37.8894,175.4703,15192.0
+10779,Illinois,,Chicago,Chicago,United States,1840000494.0,US,USA,41.8373,-87.6861,8639278.0
+5958,Beijing,primary,Beijing,Beijing,China,1156228865.0,CN,CHN,39.9289,116.3883,11106000.0
+10322,California,,Berkeley,Berkeley,United States,1840018914.0,US,USA,37.8723,-122.276,121240.0
+7726,Lombardy,admin,Milan,Milan,Italy,1380724377.0,IT,ITA,45.47,9.205,2945000.0
+7810,Tōkyō,primary,Tokyo,Tokyo,Japan,1392685764.0,JP,JPN,35.685,139.7514,35676000.0
+5764,Inner Mongolia,admin,Hohhot,Hohhot,China,1156210167.0,CN,CHN,40.82,111.66,1726000.0
+10322,California,,Berkeley,Berkeley,United States,1840018914.0,US,USA,37.8723,-122.276,121240.0
+5889,Guangdong,minor,Shenzhen,Shenzhen,China,1156158707.0,CN,CHN,22.5524,114.1221,7581000.0
+5734,Shanghai,admin,Shanghai,Shanghai,China,1156073548.0,CN,CHN,31.2165,121.4365,14987000.0
+5423,Nova Scotia,,Amherst,Amherst,Canada,1124895094.0,CA,CAN,45.8166,-64.2166,9336.0
+3724,Florida,admin,Florida,Florida,Uruguay,1858077099.0,UY,URY,-34.099,-56.215,32234.0
+9659,New York,,Waterloo,Waterloo,United States,1840004421.0,US,USA,42.9048,-76.8592,5019.0
+2809,,primary,Singapore,Singapore,Singapore,1702341327.0,SG,SGP,1.293,103.8558,5183700.0
+5060,São Paulo,,Franca,Franca,Brazil,1076740256.0,BR,BRA,-20.53,-47.39,305041.0
+9002,Texas,,Sunnyvale,Sunnyvale,United States,1840023031.0,US,USA,32.7974,-96.5576,6194.0
+3728,Soriano,admin,Mercedes,Mercedes,Uruguay,1858182538.0,UY,URY,-33.2595,-58.03,42359.0
+5060,São Paulo,,Franca,Franca,Brazil,1076740256.0,BR,BRA,-20.53,-47.39,305041.0
+5889,Guangdong,minor,Shenzhen,Shenzhen,China,1156158707.0,CN,CHN,22.5524,114.1221,7581000.0
+6686,Auvergne-Rhône-Alpes,minor,Clermont-Ferrand,Clermont-Ferrand,France,1250135509.0,FR,FRA,45.78,3.08,233050.0
+6852,Poole,admin,Poole,Poole,United Kingdom,1826379738.0,GB,GBR,50.7167,-2.0,
+6110,Zhejiang,admin,Hangzhou,Hangzhou,China,1156275243.0,CN,CHN,30.25,120.17,3007000.0
+1695,Angeles,admin,Angeles,Angeles,Philippines,1608036027.0,PH,PHL,15.1451,120.5451,314493.0
+546,Ţarābulus,primary,Tripoli,Tripoli,Libya,1434201852.0,LY,LBY,32.8925,13.18,2189000.0
+8821,New Jersey,,Carlstadt,Carlstadt,United States,1840000895.0,US,USA,40.825,-74.0614,6249.0
+9166,Texas,,Universal City,Universal City,United States,1840022225.0,US,USA,29.5521,-98.3074,20359.0
+6685,Île-de-France,primary,Paris,Paris,France,1250015082.0,FR,FRA,48.8667,2.3333,9904000.0
+5958,Beijing,primary,Beijing,Beijing,China,1156228865.0,CN,CHN,39.9289,116.3883,11106000.0
+6280,Bavaria,admin,Munich,Munich,Germany,1276692352.0,DE,DEU,48.1299,11.575,1275000.0
+5734,Shanghai,admin,Shanghai,Shanghai,China,1156073548.0,CN,CHN,31.2165,121.4365,14987000.0
+8944,Texas,,Anna,Anna,United States,1840019397.0,US,USA,33.3475,-96.5512,15554.0
+5958,Beijing,primary,Beijing,Beijing,China,1156228865.0,CN,CHN,39.9289,116.3883,11106000.0

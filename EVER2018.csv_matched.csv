@@ -1,0 +1,89 @@
+,admin_name,capital,city,city_ascii,country,id,iso2,iso3,lat,lng,population
+7713,Sicilia,admin,Palermo,Palermo,Italy,1380428434.0,IT,ITA,38.125,13.35,863000.0
+7713,Sicilia,admin,Palermo,Palermo,Italy,1380428434.0,IT,ITA,38.125,13.35,863000.0
+3033,Southern,admin,Bo,Bo,Sierra Leone,1694651111.0,SL,SLE,7.97,-11.74,174354.0
+7729,Umbria,admin,Perugia,Perugia,Italy,1380939013.0,IT,ITA,43.1104,12.39,149125.0
+3445,Taoyuan,,Bade,Bade,Taiwan,1158126203.0,TW,TWN,24.9575,121.2989,172065.0
+12559,Montana,,Havre,Havre,United States,1840019758.0,US,USA,48.5417,-109.6782,10212.0
+5826,Henan,,Hebi,Hebi,China,1156114258.0,CN,CHN,35.9504,114.22,244662.0
+6156,Antioquia,,Turbo,Turbo,Colombia,1170426476.0,CO,COL,8.1004,-76.74,50508.0
+6081,Anhui,admin,Hefei,Hefei,China,1156332710.0,CN,CHN,31.85,117.28,2035000.0
+6563,Aragon,admin,Zaragoza,Zaragoza,Spain,1724907391.0,ES,ESP,41.65,-0.89,649404.0
+6290,Baden-Württemberg,admin,Stuttgart,Stuttgart,Germany,1276171358.0,DE,DEU,48.78,9.2,2944700.0
+1417,Noord-Brabant,minor,Eindhoven,Eindhoven,Netherlands,1528636212.0,NL,NLD,51.43,5.5,398053.0
+3311,Sfax,admin,Sfax,Sfax,Tunisia,1788741658.0,TN,TUN,34.75,10.72,453050.0
+2779,Västra Götaland,admin,Göteborg,Goteborg,Sweden,1752059374.0,SE,SWE,57.75,12.0,537797.0
+9372,North Carolina,admin,Raleigh,Raleigh,United States,1840014497.0,US,USA,35.8323,-78.6441,1005457.0
+7713,Sicilia,admin,Palermo,Palermo,Italy,1380428434.0,IT,ITA,38.125,13.35,863000.0
+4551,Flanders,minor,Gent,Gent,Belgium,1056062897.0,BE,BEL,51.03,3.7,444336.0
+3048,Saint-Louis,admin,Saint-Louis,Saint-Louis,Senegal,1686542859.0,SN,SEN,16.0186,-16.4906,
+131,Western Cape,,George,George,South Africa,1710164136.0,ZA,ZAF,-33.95,22.45,174582.0
+5363,Québec,,Trois-Rivières,Trois Rivieres,Canada,1124407487.0,CA,CAN,46.35,-72.5499,119693.0
+12051,Missouri,,Republic,Republic,United States,1840009906.0,US,USA,37.145,-93.4448,16116.0
+6279,Bavaria,admin,Munich,Munich,Germany,1276692352.0,DE,DEU,48.1299,11.575,1275000.0
+3311,Sfax,admin,Sfax,Sfax,Tunisia,1788741658.0,TN,TUN,34.75,10.72,453050.0
+1417,Noord-Brabant,minor,Eindhoven,Eindhoven,Netherlands,1528636212.0,NL,NLD,51.43,5.5,398053.0
+3311,Sfax,admin,Sfax,Sfax,Tunisia,1788741658.0,TN,TUN,34.75,10.72,453050.0
+3311,Sfax,admin,Sfax,Sfax,Tunisia,1788741658.0,TN,TUN,34.75,10.72,453050.0
+1050,Nayarit,minor,Tecuala,Tecuala,Mexico,1484955369.0,MX,MEX,22.4004,-105.46,14921.0
+3311,Sfax,admin,Sfax,Sfax,Tunisia,1788741658.0,TN,TUN,34.75,10.72,453050.0
+7713,Sicilia,admin,Palermo,Palermo,Italy,1380428434.0,IT,ITA,38.125,13.35,863000.0
+3311,Sfax,admin,Sfax,Sfax,Tunisia,1788741658.0,TN,TUN,34.75,10.72,453050.0
+4180,Buenos Aires,minor,Campana,Campana,Argentina,1032345885.0,AR,ARG,-34.16,-58.96,81612.0
+2955,Štore,admin,Štore,Store,Slovenia,1705775604.0,SI,SVN,46.2208,15.3139,
+7713,Sicilia,admin,Palermo,Palermo,Italy,1380428434.0,IT,ITA,38.125,13.35,863000.0
+6279,Bavaria,admin,Munich,Munich,Germany,1276692352.0,DE,DEU,48.1299,11.575,1275000.0
+3311,Sfax,admin,Sfax,Sfax,Tunisia,1788741658.0,TN,TUN,34.75,10.72,453050.0
+6279,Bavaria,admin,Munich,Munich,Germany,1276692352.0,DE,DEU,48.1299,11.575,1275000.0
+9631,New York,,Mechanicville,Mechanicville,United States,1840000368.0,US,USA,42.9037,-73.6894,5100.0
+7650,Kermān,admin,Kerman,Kerman,Iran,1364554896.0,IR,IRN,30.3,57.08,577514.0
+7103,Anatolikí Makedonía kai Thráki,minor,Xanthi,Xanthi,Greece,1300051191.0,GR,GRC,41.1418,24.8836,50570.0
+6287,Saarland,admin,Saarbrücken,Saarbrucken,Germany,1276419711.0,DE,DEU,49.2504,6.97,770001.0
+6290,Baden-Württemberg,admin,Stuttgart,Stuttgart,Germany,1276171358.0,DE,DEU,48.78,9.2,2944700.0
+4544,Brussels-Capital Region,primary,Brussels,Brussels,Belgium,1056469830.0,BE,BEL,50.8333,4.3333,1743000.0
+6804,Sheffield,admin,Sheffield,Sheffield,United Kingdom,1826289852.0,GB,GBR,53.3667,-1.5,1292900.0
+3311,Sfax,admin,Sfax,Sfax,Tunisia,1788741658.0,TN,TUN,34.75,10.72,453050.0
+3311,Sfax,admin,Sfax,Sfax,Tunisia,1788741658.0,TN,TUN,34.75,10.72,453050.0
+6563,Aragon,admin,Zaragoza,Zaragoza,Spain,1724907391.0,ES,ESP,41.65,-0.89,649404.0
+6279,Bavaria,admin,Munich,Munich,Germany,1276692352.0,DE,DEU,48.1299,11.575,1275000.0
+6279,Bavaria,admin,Munich,Munich,Germany,1276692352.0,DE,DEU,48.1299,11.575,1275000.0
+3311,Sfax,admin,Sfax,Sfax,Tunisia,1788741658.0,TN,TUN,34.75,10.72,453050.0
+3799,Anzoátegui,admin,Barcelona,Barcelona,Venezuela,1862418619.0,VE,VEN,10.1304,-64.72,600954.0
+6279,Bavaria,admin,Munich,Munich,Germany,1276692352.0,DE,DEU,48.1299,11.575,1275000.0
+367,Klaipėdos Miestas,admin,Klaipėda,Klaipeda,Lithuania,1440897790.0,LT,LTU,55.7204,21.1199,192307.0
+6279,Bavaria,admin,Munich,Munich,Germany,1276692352.0,DE,DEU,48.1299,11.575,1275000.0
+4970,Ceará,admin,Fortaleza,Fortaleza,Brazil,1076567885.0,BR,BRA,-3.75,-38.58,3602319.0
+3311,Sfax,admin,Sfax,Sfax,Tunisia,1788741658.0,TN,TUN,34.75,10.72,453050.0
+6279,Bavaria,admin,Munich,Munich,Germany,1276692352.0,DE,DEU,48.1299,11.575,1275000.0
+2299,Dagestan,,Derbent,Derbent,Russia,1643003556.0,RU,RUS,42.0578,48.2774,105965.0
+7713,Sicilia,admin,Palermo,Palermo,Italy,1380428434.0,IT,ITA,38.125,13.35,863000.0
+7713,Sicilia,admin,Palermo,Palermo,Italy,1380428434.0,IT,ITA,38.125,13.35,863000.0
+7713,Sicilia,admin,Palermo,Palermo,Italy,1380428434.0,IT,ITA,38.125,13.35,863000.0
+2779,Västra Götaland,admin,Göteborg,Goteborg,Sweden,1752059374.0,SE,SWE,57.75,12.0,537797.0
+6109,Zhejiang,admin,Hangzhou,Hangzhou,China,1156275243.0,CN,CHN,30.25,120.17,3007000.0
+2955,Štore,admin,Štore,Store,Slovenia,1705775604.0,SI,SVN,46.2208,15.3139,
+3976,Korçë,admin,Korçë,Korce,Albania,1008361921.0,AL,ALB,40.6167,20.7667,58259.0
+6323,Bavaria,minor,Nürnberg,Nurnberg,Germany,1276166609.0,DE,DEU,49.45,11.08,737304.0
+6323,Bavaria,minor,Nürnberg,Nurnberg,Germany,1276166609.0,DE,DEU,49.45,11.08,737304.0
+6323,Bavaria,minor,Nürnberg,Nurnberg,Germany,1276166609.0,DE,DEU,49.45,11.08,737304.0
+6304,North Rhine-Westphalia,minor,Wuppertal,Wuppertal,Germany,1276004611.0,DE,DEU,51.25,7.17,776525.0
+3803,Falcón,admin,Coro,Coro,Venezuela,1862429150.0,VE,VEN,11.42,-69.68,195227.0
+4367,Queensland,,Warwick,Warwick,Australia,1036412726.0,AU,AUS,-28.2292,152.0203,12347.0
+9631,New York,,Mechanicville,Mechanicville,United States,1840000368.0,US,USA,42.9037,-73.6894,5100.0
+6290,Baden-Württemberg,admin,Stuttgart,Stuttgart,Germany,1276171358.0,DE,DEU,48.78,9.2,2944700.0
+4520,"Bosnia and Herzegovina, Federation of",primary,Sarajevo,Sarajevo,Bosnia And Herzegovina,1070966777.0,BA,BIH,43.85,18.383,696731.0
+6563,Aragon,admin,Zaragoza,Zaragoza,Spain,1724907391.0,ES,ESP,41.65,-0.89,649404.0
+12051,Missouri,,Republic,Republic,United States,1840009906.0,US,USA,37.145,-93.4448,16116.0
+1546,Veraguas,admin,Santiago,Santiago,Panama,1591231138.0,PA,PAN,8.1004,-80.9833,45955.0
+7719,Liguria,admin,Genoa,Genoa,Italy,1380716540.0,IT,ITA,44.41,8.93,647497.0
+1417,Noord-Brabant,minor,Eindhoven,Eindhoven,Netherlands,1528636212.0,NL,NLD,51.43,5.5,398053.0
+2779,Västra Götaland,admin,Göteborg,Goteborg,Sweden,1752059374.0,SE,SWE,57.75,12.0,537797.0
+5059,São Paulo,,Franca,Franca,Brazil,1076740256.0,BR,BRA,-20.53,-47.39,305041.0
+5363,Québec,,Trois-Rivières,Trois Rivieres,Canada,1124407487.0,CA,CAN,46.35,-72.5499,119693.0
+3311,Sfax,admin,Sfax,Sfax,Tunisia,1788741658.0,TN,TUN,34.75,10.72,453050.0
+6279,Bavaria,admin,Munich,Munich,Germany,1276692352.0,DE,DEU,48.1299,11.575,1275000.0
+334,Central,,Kandy,Kandy,Sri Lanka,1144308408.0,LK,LKA,7.28,80.67,111701.0
+6691,Hauts-de-France,admin,Lille,Lille,France,1250071961.0,FR,FRA,50.65,3.08,1044000.0
+6279,Bavaria,admin,Munich,Munich,Germany,1276692352.0,DE,DEU,48.1299,11.575,1275000.0
+6680,Bretagne,admin,Rennes,Rennes,France,1250363682.0,FR,FRA,48.1,-1.67,209375.0
+7650,Kermān,admin,Kerman,Kerman,Iran,1364554896.0,IR,IRN,30.3,57.08,577514.0
