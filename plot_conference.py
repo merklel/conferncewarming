@@ -10,7 +10,7 @@ HEATMAP=True
 
 def plot_conference(df_match, venue,title, CONFERENCE,total_co2, world_conf_venues):
 
-
+	n_paper = len(df_match)
 
     fig, (ax) = plt.subplots(nrows=1, figsize=(20,10))
 
@@ -50,7 +50,7 @@ def plot_conference(df_match, venue,title, CONFERENCE,total_co2, world_conf_venu
 
     ax.coastlines()
     ax.set_global()
-    plt.title(title + ": "+venue['name'] + ", Total CO2: "+ str(round(total_co2,2)) + " Tons")
+    plt.title(title + ": "+venue['name'] + ", Total $CO_2$: "+ str(round(total_co2,2)) + " Tons. " + "$CO_2$ per person: " + str(round(total_co2/n_paper,2)) + " Tons.")
 
     '''
     plt.plot([ny_lon, delhi_lon], [ny_lat, delhi_lat],
