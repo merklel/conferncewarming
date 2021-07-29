@@ -4,13 +4,18 @@ Where does it make sense to host scientific conferences?
 From a Co2 perspective, where everyone arrives by plane, certainly not in Hawai:
 
 ### Original Location (3221 t CO2):
+
 ![](results/itsc18.csv_Maui,_Hawaii_Original_Location.png)
 
 
 ### Best Location using naive algorithm (1954 t CO2):
+
 Savings: 1267 t Co2.
+
 ![](results/itsc18.csv_Essen_CO2_Optimal_Location.png)
 
+
+Note: The flights are routed correctly but the displayed lines might take the wrone route around the globe. This is a display issue only.
 
 # Method
 - Scanning the conference proceedings for the origins of the authors. First author is used to determine origin.
